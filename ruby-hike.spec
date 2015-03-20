@@ -2,7 +2,7 @@
 Summary:	A Ruby library for finding files in a set of paths
 Name:		ruby-%{pkgname}
 Version:	1.2.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
